@@ -130,8 +130,6 @@ Check the following:
 - the sender is using the correct IP address
 - the sender is using port `8081` unless receiver code is changed
 - firewall rules are not blocking UDP traffic
-- both programs are using compatible IP versions
-
 
 ## Exit behavior
 
